@@ -38,6 +38,30 @@
   - Groq API Key (for LLM access)
   - VoyageAI API Key (for embeddings)
   - Google Generative AI API Key (for LLM access)
+ 
+## Setting Up Environment Variables
+
+Create a `.env` file in the root directory of the project with the following configuration:
+
+### Configuration Details:
+
+- **API Keys**:
+  - `GROQ_API_KEY`: Your Groq API key for LLM access
+  - `VOYAGE_API_KEY`: Your VoyageAI API key for embeddings
+
+- **Storage Paths**:
+  - `FAISS_PATH`: Directory where vector indices will be stored
+  - `GENERATED_DATA_PATH`: Directory for processed CSV data
+  - `DEFAULT_DATA_PATH`: Path to default data (can be empty)
+
+- **Model Settings**:
+  - `EMBEDDING_MODEL`: Embedding model to use for document vectorization
+
+### Important Notes:
+
+- Ensure your API keys are kept confidential and not committed to public repositories
+- Create all necessary directories before running the application
+- Relative paths can be used, but absolute paths are recommended
 
 ## 🚀 Installation
 
