@@ -66,6 +66,6 @@ Create a `.env` file in the root directory of the project with the following con
 ## 🚀 How to run?
 
 ```bash
-git clone https://github.com/yourusername/hiresift.git
+git clone https://github.com/abhilekhborah/hiresift.git
 cd hiresift
 streamlit run main.py
