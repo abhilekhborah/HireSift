@@ -37,7 +37,7 @@
 - API keys:
   - Groq API Key (for LLM access)
   - VoyageAI API Key (for embeddings)
-  - Google Generative AI API Key (optional)
+  - Google Generative AI API Key (for LLM access)
 
 ## 🚀 Installation
 
