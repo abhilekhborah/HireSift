@@ -1,2 +1,49 @@
-# HireSift
-Siemens GenAI Assessment 
+# HireSift 🔍 
+
+<div align="center">
+
+![Siemens Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Siemens-logo.svg/320px-Siemens-logo.svg.png)
+
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.34.0-FF4B4B)](https://streamlit.io/)
+[![LangChain](https://img.shields.io/badge/LangChain-0.3.19-00873E)](https://www.langchain.com/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**AI-Powered Recruitment Assistant for Technical Hiring**
+
+</div>
+
+## 🌟 Features
+
+- **🔎 Smart Resume Search**: Find candidates matching specific skills or job descriptions
+- **📊 Intelligent Matching**: AI-powered ranking of candidate resumes against job requirements
+- **📅 Automated Scheduling**: Schedule interviews with candidates matching your criteria
+- **📧 Email Drafting**: Generate professional interview invitation emails
+- **🧠 Multi-Model Support**: Switch between different LLM models for various tasks
+- **🔄 RAG & RAG Fusion**: Advanced retrieval techniques for more accurate candidate matching
+- **🧩 Category-Based Search**: Find candidates by roles (Frontend, Backend, Full Stack, GenAI, etc.)
+
+## 🛠️ Technologies
+
+- **Frontend**: Streamlit
+- **AI/ML**: LangChain, Google Generative AI, Groq, VoyageAI (embeddings)
+- **Vector Database**: FAISS
+- **Document Processing**: PyPDF, Pandas
+- **Natural Language Processing**: Transformers, Sentence-Transformers
+
+## 📋 Prerequisites
+
+- Python 3.9+
+- API keys:
+  - Groq API Key (for LLM access)
+  - VoyageAI API Key (for embeddings)
+  - Google Generative AI API Key (optional)
+
+## 🚀 Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/yourusername/hiresift.git
+cd hiresift
+streamlit run main.py
