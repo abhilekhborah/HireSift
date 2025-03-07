@@ -62,7 +62,7 @@ Create a `.env` file in the root directory of the project with the following con
 - Create all necessary directories before running the application
 - Relative paths can be used, but absolute paths are recommended
 
-## 🚀 How to run?
+## How to run?
 
 ```bash
 git clone https://github.com/abhilekhborah/hiresift.git
