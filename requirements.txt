@@ -1,3 +1,4 @@
+pip==latest
 aiohttp
 beautifulsoup4
 datasets
