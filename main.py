@@ -172,13 +172,13 @@ st.set_page_config(page_title="HireSift", layout="wide")
 col1, col2 = st.columns([4, 1])
 with col1:
     st.title("HireSift")
-with col2:
-    logo_path = "/Users/deltae/Downloads/IITG Research/RAG Dataset/College Essentials/HireSift/siemens_logo.png"
-    try:
-        logo = Image.open(logo_path)
-        st.image(logo, width=150)
-    except FileNotFoundError:
-        st.error("Logo image not found. Place 'logo.png' in the same directory as your script.")
+# with col2:
+#     logo_path = "/Users/deltae/Downloads/IITG Research/RAG Dataset/College Essentials/HireSift/siemens_logo.png"
+#     try:
+#         logo = Image.open(logo_path)
+#         st.image(logo, width=150)
+#     except FileNotFoundError:
+#         st.error("Logo image not found. Place 'logo.png' in the same directory as your script.")
 
 # Initialize session state if needed
 if "chat_history" not in st.session_state:
