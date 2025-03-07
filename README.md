@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Siemens Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Siemens-logo.svg/320px-Siemens-logo.svg.png)
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.34.0-FF4B4B)](https://streamlit.io/)
