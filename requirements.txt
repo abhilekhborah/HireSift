@@ -23,7 +23,7 @@ python-dotenv
 requests
 scikit-learn
 sentence-transformers
-streamlit
+streamlit==latest
 tiktoken
 torch
 transformers
