@@ -12,11 +12,7 @@
 
 ## Demo
 
-
-
-
 https://github.com/user-attachments/assets/157ec468-646e-43c4-8eb6-fcdf2e95142a
-
 
 ## 🌟 Features
 
