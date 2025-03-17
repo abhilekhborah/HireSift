@@ -11,10 +11,11 @@
 **AI-Enabled Multi-Agent Framework for Recruitment and Technical Hiring**
 
 ## Demo
-</div>
 
-https://github.com/user-attachments/assets/c879aa8a-f32a-4653-9808-6a2ced9e456d
 
+
+
+https://github.com/user-attachments/assets/157ec468-646e-43c4-8eb6-fcdf2e95142a
 
 
 ## 🌟 Features
