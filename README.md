@@ -8,9 +8,14 @@
 [![LangChain](https://img.shields.io/badge/LangChain-0.3.19-00873E)](https://www.langchain.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**AI-Powered Recruitment Assistant for Technical Hiring**
+**AI-Enabled Multi-Agent Framework for Recruitment and Technical Hiring**
 
+## Demo
 </div>
+
+https://github.com/user-attachments/assets/c879aa8a-f32a-4653-9808-6a2ced9e456d
+
+
 
 ## 🌟 Features
 
